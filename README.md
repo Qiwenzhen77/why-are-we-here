@@ -41,4 +41,12 @@ I view it as the intersection of programming and design, though more precisely, 
 
 So, why am I here? What this course will teach me isn't how to have AI write code for me, but rather how to become someone capable of precisely articulating my intent using a "specified language."
 
+## References
+
+Midjourney. (n.d.). Midjourney documentation. https://docs.midjourney.com/
+
+
+
+
+
 
