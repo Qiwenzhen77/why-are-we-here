@@ -40,13 +40,3 @@ The final generation process for the "Jamai dynamic poster":
 I view it as the intersection of programming and design, though more precisely, it is a capability involving the integrated application of both. -`Design"`tells me what is "right"—enabling me to envision the final look of a poster; -`programming` allows me to grasp concepts like variables, parameters, functions, events, and conditions, enabling me to translate design intent into executable system rules.
 
 So, why am I here? What this course will teach me isn't how to have AI write code for me, but rather how to become someone capable of precisely articulating my intent using a "specified language."
-
-## References
-
-Midjourney. (n.d.). Midjourney documentation. https://docs.midjourney.com/
-
-
-
-
-
-
